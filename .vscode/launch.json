@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CeaserBreaker",
+            "request": "launch",
+            "mainClass": "CeaserBreaker",
+            "projectName": "CeaserCipher"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WordLengths",
+            "request": "launch",
+            "mainClass": "WordLengths",
+            "projectName": "CeaserCipher"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CeaserCipher",
+            "request": "launch",
+            "mainClass": "CeaserCipher",
+            "projectName": "CeaserCipher"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WordPlay",
+            "request": "launch",
+            "mainClass": "WordPlay",
+            "projectName": "CeaserCipher"
+        }
+    ]
+}
